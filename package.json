@@ -1,0 +1,24 @@
+{
+  "name": "Portal-de-Estudos-PHP",
+  "version": "1.0.0",
+  "description": "Estudos em php aqui são as requisições do projeto a seguir.",
+  "main": "index.php",
+  "scripts": {
+    "start": "php -S localhost:8000"
+  },
+  "keywords": [
+    "PHP",
+    "Composer",
+    "GitHub"
+  ],
+  "author": "Diogo",
+  "license": "MIT",
+  "dependencies": {
+    "php": "^7.4.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Estudos-Desenvolvimento-Web/Portal-De-Estudos-PHP.git"
+  }
+}

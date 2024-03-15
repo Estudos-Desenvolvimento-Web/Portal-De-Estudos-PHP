@@ -17,5 +17,7 @@ $String = "Bola";
 $templateString = '$String , $inteiro, bola';
 
 echo $inteiro, $array, $float, $double, $String, $templateString;
-
+//https://www.php.net/manual/pt_BR/language.variables.php
+//https://www.php.net/manual/pt_BR/language.variables.variable.php
+//https://www.php.net/manual/pt_BR/language.types.string.php#language.types.string.parsing
 ?>

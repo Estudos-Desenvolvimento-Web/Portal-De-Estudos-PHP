@@ -1,12 +1,12 @@
 {
-    "name": "Portal-de-Estudos-PHP",
-    "description": "Um projeto de exemplo usando Composer",
+    "name": "Portal-De-Estudos-PHP",
+    "description": "",
     "type": "project",
     "license": "MIT",
     "authors": [
         {
             "name": "Diogo Meneses",
-            "email": "mensesdiogo113@gmail.com"
+            "email": "seuemail@example.com"
         }
     ],
     "require": {
@@ -18,3 +18,4 @@
         }
     }
 }
+
